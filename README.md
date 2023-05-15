@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m a recent graduate student from the Department of Computer Engineering at Pandit Deendayal Energy University.
+I am currently pursuing a Master’s degree in Computer Science at Saarland University.
 
-I’m a prospective MS student interested in applied artificial intelligence, primarily deep learning, computer vision, and generative networks. I am interested in the applications of AI in interdisciplinary studies and the design of inclusive and accessible intelligent health systems.
+My principal research interests include applied machine learning, primarily deep learning, and computer vision. I am interested in the applications of AI in interdisciplinary studies and the design of inclusive and equitable intelligent systems.
 
 Please check out my personal website at [rvaghashiya.github.io](https://rvaghashiya.github.io/) for more details.
 
