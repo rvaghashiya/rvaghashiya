@@ -2,9 +2,9 @@
 
 I am currently pursuing a Master’s degree in Computer Science at Saarland University.
 
-My principal research interests include applied machine learning, primarily deep learning, and computer vision. I am interested in the applications of AI in interdisciplinary studies and the design of inclusive and equitable intelligent systems.
+My principal research interests include applied machine learning, primarily deep learning, and computer vision. I am interested in the applications of ML in interdisciplinary studies to address real-world challenges and the design of inclusive and equitable intelligent systems.
 
-Please check out my personal website at [rvaghashiya.github.io](https://rvaghashiya.github.io/) for more details.
+Check out my [personal website](https://rvaghashiya.github.io/) for more details.
 
 <!--
 **rvaghashiya/rvaghashiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
